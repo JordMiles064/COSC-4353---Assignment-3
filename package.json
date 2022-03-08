@@ -1,0 +1,25 @@
+{
+  "name": "-y",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./fuelQuoteForm_test.js",
+    "coverage": "npm run test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "mongoose": "^5.12.3"
+  },
+  "description": "",
+  "devDependencies": {
+    "nyc": "^15.1.0"
+  }
+}
