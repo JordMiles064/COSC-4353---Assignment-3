@@ -1,6 +1,7 @@
 //pricing module class placeholder that will be ulitized later
 class PricingModule {
 
+  
 }
 
 $(document).ready(function() {
