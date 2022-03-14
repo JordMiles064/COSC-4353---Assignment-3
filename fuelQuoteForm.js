@@ -1,7 +1,7 @@
-//pricing module class placeholder that will be ulitized later
+//Pricing module class that will be used later
 class PricingModule {
 
-  
+
 }
 
 $(document).ready(function() {
@@ -12,3 +12,4 @@ $(document).ready(function() {
       }
   })
 });
+
